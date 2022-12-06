@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{29E987E0-B6BF-48BC-8EB8-DA893537CD8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{23E4E157-C6A2-411A-B8A6-FD5C1D399EC6}"
+	ProjectSection(SolutionItems) = preProject
+		GameGrid.cs = GameGrid.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29E987E0-B6BF-48BC-8EB8-DA893537CD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E987E0-B6BF-48BC-8EB8-DA893537CD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E987E0-B6BF-48BC-8EB8-DA893537CD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E987E0-B6BF-48BC-8EB8-DA893537CD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FB5F68B-F8CC-4007-8A3D-B0375C7B40E2}
+	EndGlobalSection
+EndGlobal
